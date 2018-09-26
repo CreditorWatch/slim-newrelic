@@ -1,5 +1,5 @@
 {
-    "name": "herloct/slim-newrelic",
+    "name": "creditorwatch/slim-newrelic",
     "description": "New Relic instrumentation for the Slim framework",
     "keywords": ["newrelic", "new-relic", "slim", "slim-framework"],
     "type": "library",
